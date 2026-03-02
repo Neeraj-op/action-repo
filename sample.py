@@ -5,3 +5,4 @@
 print("Hello World")
 print("Hello World 2")
 print("Testing PR webhook")
+print("Testing push on branch")
